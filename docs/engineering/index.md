@@ -8,6 +8,8 @@
   - 逻辑架构、模块职责、核心实体、关键流程。
 - [implementation-plan.md](D:/Code/VSCode_Project/StudyFlow/docs/engineering/implementation-plan.md)
   - MVP 分阶段实施计划、交付切片、反范围清单。
+- [development-plan.md](D:/Code/VSCode_Project/StudyFlow/docs/engineering/development-plan.md)
+  - 更可执行的开发计划、阶段交付、依赖关系、里程碑和验收口径。
 - [technology-selection.md](D:/Code/VSCode_Project/StudyFlow/docs/engineering/technology-selection.md)
   - 首版推荐技术栈、基础设施取舍、为什么现在这样选。
 
